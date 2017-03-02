@@ -1,21 +1,13 @@
-
-
-header{
-	background:#2ecc71 
+.navbar{
+    margin-bottom: 0;
+}
+.jumbotron-sg {
+	background:#CDCDCD;
+    color: black;
 }
 
-article{
-    background: #f0f0f0;
-}
-
-aside{
-    background: #d35400
-}
-.color1{
-    background: #34495e;
-    color: white;
-}
-
-footer{
-    background:#2ecc71
+.titulo-blog{
+    font-size: 50px;
+    font-weight: bold;
+    
 }
